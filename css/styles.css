@@ -24,7 +24,16 @@ section {
 	width: 50px;
 }
 
+/* Style Tile for FirstName LastName */
+.color-1 {
+	background: orange;
+}
 
+.color-2 {
+	background: green;
+}
+
+.
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
